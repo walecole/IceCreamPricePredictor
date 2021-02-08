@@ -1,1 +1,1 @@
-# IceCreamPricePridictor
+# IceCreamPricePredictor
